@@ -7,11 +7,10 @@ This web application aims to provide a dynamic visual representation of planets 
 
 ## Features
 
-- **Procedural Exoplanets:** A planet mimicking the Earth's topography using Simplex Noise and custom shaders for topography and ocean depths.
+- **Procedural Exoplanet:** A planet mimicking the Earth's topography using Simplex Noise and custom shaders for topography and ocean depths.
 - **Dynamic Topography Legend:** A color-coded legend that updates based on the biome of the currently selected planet.
-- **Camera Navigation:** Smooth, cinematic camera transitions between a zoomed-out "System View" and a close-up "Planet View" powered by GSAP.
-- **Conditional Bloom Effects:** Planets glow beautifully in the distance using Three.js post-processing, which dynamically turns off when zooming in to ensure sharp, clear topographic data.
-- **Atmospheric Scanner:** A futuristic laser-scanning animation that analyzes the currently selected planet, displaying randomized data points such as Oxygen levels, Surface Temperature, Gravity, and detecting hostile life forms or hazardous environments.
+- **Camera Navigation:** Smooth, cinematic camera transitions between a zoomed-out and a close-up "Planet View" powered by GSAP.
+- **Atmospheric Scanner:** A futuristic laser-scanning animation that analyzes the currently selected planet, displaying randomized data points such as Oxygen levels, Surface Temperature, and Gravity.
 
 ## Technologies Used
 
