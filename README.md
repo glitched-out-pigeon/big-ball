@@ -1,3 +1,5 @@
+(!! This is a sample project to test antigravity's potential !!)
+
 # Deep Space Explorer
 
 Deep Space Explorer is an interactive 3D web application built with Three.js and GSAP that allows users to explore a procedurally generated system of fictional exoplanets. The interface is styled as a futuristic spaceship terminal using Tailwind CSS. 
