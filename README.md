@@ -41,10 +41,3 @@ Since the project uses ES Modules (`<script type="module">`), it must be served 
 3. Open your browser and navigate to \`http://localhost:8000\`.
                                                          [OR]
    Use link: https://glitched-out-pigeon.github.io/big-ball/
-
-## Controls
-
-- **UI Buttons:** Click the `<` and `>` buttons to cycle between planets. Click `System View` to zoom out to the entire solar system.
-- **Keyboard Arrows:** Use `Left Arrow` and `Right Arrow` keys to navigate between planets.
-- **Escape Key:** Press `Esc` to instantly return to the System View.
-- **Scanner:** When focused on a planet, click the "Atmosphere Scanner" button to analyze its environment.
