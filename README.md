@@ -39,6 +39,8 @@ Since the project uses ES Modules (`<script type="module">`), it must be served 
    python -m http.server 8000
    \`\`\`
 3. Open your browser and navigate to \`http://localhost:8000\`.
+                                                         [OR]
+   Use link: https://glitched-out-pigeon.github.io/big-ball/
 
 ## Controls
 
